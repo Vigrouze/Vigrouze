@@ -7,6 +7,8 @@
 
 - 👨‍💻 My first project is available at [http://www.freementors.work/](http://www.freementors.work/)
 
+- 🎤 See the pitch of my first projet (from the 22nd minute) at [https://fb.watch/9M7W2Py49g/](https://fb.watch/9M7W2Py49g/)
+
 - 📫 How to reach me **alex.vigreux@kedgebs.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAETfLbC75E/ir8Gb4t8xKJ3YR6bAU-vdg/view?utm_content=DAETfLbC75E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAETfLbC75E/ir8Gb4t8xKJ3YR6bAU-vdg/view?utm_content=DAETfLbC75E&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
@@ -22,3 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigrouze&show_icons=true&locale=en&layout=compact" alt="vigrouze" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigrouze&" alt="vigrouze" /></p>
+
